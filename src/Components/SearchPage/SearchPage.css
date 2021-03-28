@@ -1,0 +1,34 @@
+.searchContainer {
+    text-align: left;
+}
+
+.searchHeading {
+    margin: 45px 20px;
+}
+
+.relatedSearches {
+    margin: 45px 20px;
+}
+
+.badge {
+    margin:7px;
+}
+
+.cardContainer {
+     background-color: #f0f0f0 ;
+     width : 50%;
+     display:flex;
+     justify-content:left;
+     align-items: center;
+     margin-bottom: 12px;
+}
+
+.cardData {
+    margin-left: 25px;
+}
+
+.cardContainer img {
+    height:50%;
+    width:50%;
+}
+

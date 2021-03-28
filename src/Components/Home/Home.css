@@ -1,0 +1,49 @@
+.searchStyle {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 75px 45px 0 45px;
+  }
+  
+  .searchStyle input {
+    padding: 10px 25px 10px 5px;
+    margin-right: 25px;
+  }
+  
+  .searchStyle button {
+    padding: 10px 25px 10px 25px;
+    background-color:rgb(206, 95, 95);
+    color: #fff;
+    border-radius: 5px;
+    border-color:rgb(218, 125, 125);
+    font-size: 15px;
+  }
+  
+  .searchStyle button:hover {
+    transform: scale(0.98);
+  }
+  
+  .imageOfDaySection {
+    height:100%;
+    width:100%;
+    margin-bottom: 35px;
+  }
+  
+  .imageOfDaySection img {
+    height:100%;
+    width: 100%;
+    padding: 75px 75px 35px 75px;
+  }
+  
+  .description {
+    margin:0px 25px 0px 25px;
+  }
+  
+  .date {
+    margin-top: 25px;
+  }
+  
+  .copyrightInfo {
+    margin-bottom:15px;
+  }
+  
